@@ -1,4 +1,4 @@
-package StringTest;
+package StringSample;
 
 public class Main {
     public static void main(String[] args) {
