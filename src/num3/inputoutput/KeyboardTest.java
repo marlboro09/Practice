@@ -1,4 +1,4 @@
-package inputoutput;
+package num3.inputoutput;
 
 import java.io.BufferedReader;
 import java.io.IOException;

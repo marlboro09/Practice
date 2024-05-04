@@ -1,4 +1,4 @@
-package equaltest;
+package num2.equaltest;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package horoscope;
+package num2.horoscope;
 
 import java.util.Date;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package switchtest;
+package num3.switchtest;
 
 public class Main {
     public static void main(String[] args) {

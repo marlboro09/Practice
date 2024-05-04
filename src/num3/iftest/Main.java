@@ -1,4 +1,4 @@
-package iftest;
+package num3.iftest;
 
 public class Main {
     public static void main(String[] args) {

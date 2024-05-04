@@ -1,4 +1,4 @@
-package stringsample;
+package num2.stringsample;
 
 public class Main {
     public static void main(String[] args) {
