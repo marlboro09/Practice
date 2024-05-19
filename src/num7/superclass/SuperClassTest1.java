@@ -3,13 +3,13 @@ package num7.superclass;
 /**
  * 부모 클래스 선언
  */
-public class SuperClassTest {
+public class SuperClassTest1 {
 	int x, y;
 
 	/**
 	 * 생성자
 	 */
-	public SuperClassTest(int a, int b) {
+	public SuperClassTest1(int a, int b) {
         this.x = a;
         this.y = b;
     }
@@ -19,7 +19,7 @@ public class SuperClassTest {
 	}
 }
 
-class SubClass extends SuperClassTest {
+class SubClass extends SuperClassTest1 {
 	public SubClass() {	//생성자
 		super(30, 20); //상위 클래스 생성자 호출
 	}
