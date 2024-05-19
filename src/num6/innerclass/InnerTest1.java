@@ -1,4 +1,4 @@
-package num6.inneclass;
+package num6.innerclass;
 
 /**
  * Outer클래스와 Inner클래스 선언
@@ -20,7 +20,7 @@ class Outer {
 }
 
 
-public class InnerTest {
+public class InnerTest1 {
 	public static void main(String[] args) {
 		System.out.println("Outer에서 Inner 객체 선언하기");
 		Outer out = new Outer();
